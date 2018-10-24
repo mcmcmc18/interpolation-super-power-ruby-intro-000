@@ -4,4 +4,5 @@ def display_rainbow('Red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'viole
   puts "#{red[0]}"
   puts "#{orange[0]}"
   puts "#{yellow[0]}"
-    puts"#{green[0]}"
+    puts"#{green[0]}"   
+    puts"#{blue[0]}"
